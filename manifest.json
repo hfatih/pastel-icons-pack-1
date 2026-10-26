@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Pastel Glass Icons - Vol 1 (Cool Edition)",
-  "description": "Mavi, Mor, Açık Mavi ve Koyu Cam renk temalarında 2.000 adet estetik pastel cam Stream Deck & Evoxdeck ikon paketi.",
+  "description": "Mavi, Mor, Açık Mavi ve Koyu Cam renk temalarında 2.000 adet estetik pastel cam evoXdeck ikon paketi.",
   "version": "1.0.0",
   "author": {
     "id": "hfatih",
@@ -1517,11 +1517,6 @@
         "path": "icons/icon-0300-blue-pinterest.png"
       },
       {
-        "id": "icon-0301-blue-elgato",
-        "name": "Blue Elgato",
-        "path": "icons/icon-0301-blue-elgato.png"
-      },
-      {
         "id": "icon-0302-blue-razer",
         "name": "Blue Razer",
         "path": "icons/icon-0302-blue-razer.png"
@@ -1785,11 +1780,6 @@
         "id": "icon-0354-blue-cooler-master",
         "name": "Blue Cooler Master",
         "path": "icons/icon-0354-blue-cooler-master.png"
-      },
-      {
-        "id": "icon-0355-blue-patreon",
-        "name": "Blue Patreon",
-        "path": "icons/icon-0355-blue-patreon.png"
       },
       {
         "id": "icon-0356-blue-buy-me-a-coffee",
@@ -4017,11 +4007,6 @@
         "path": "icons/icon-0800-purple-pinterest.png"
       },
       {
-        "id": "icon-0801-purple-elgato",
-        "name": "Purple Elgato",
-        "path": "icons/icon-0801-purple-elgato.png"
-      },
-      {
         "id": "icon-0802-purple-razer",
         "name": "Purple Razer",
         "path": "icons/icon-0802-purple-razer.png"
@@ -4285,11 +4270,6 @@
         "id": "icon-0854-purple-cooler-master",
         "name": "Purple Cooler Master",
         "path": "icons/icon-0854-purple-cooler-master.png"
-      },
-      {
-        "id": "icon-0855-purple-patreon",
-        "name": "Purple Patreon",
-        "path": "icons/icon-0855-purple-patreon.png"
       },
       {
         "id": "icon-0856-purple-buy-me-a-coffee",
@@ -6517,11 +6497,6 @@
         "path": "icons/icon-1800-aqua-pinterest.png"
       },
       {
-        "id": "icon-1801-aqua-elgato",
-        "name": "Aqua Elgato",
-        "path": "icons/icon-1801-aqua-elgato.png"
-      },
-      {
         "id": "icon-1802-aqua-razer",
         "name": "Aqua Razer",
         "path": "icons/icon-1802-aqua-razer.png"
@@ -6785,11 +6760,6 @@
         "id": "icon-1854-aqua-cooler-master",
         "name": "Aqua Cooler Master",
         "path": "icons/icon-1854-aqua-cooler-master.png"
-      },
-      {
-        "id": "icon-1855-aqua-patreon",
-        "name": "Aqua Patreon",
-        "path": "icons/icon-1855-aqua-patreon.png"
       },
       {
         "id": "icon-1856-aqua-buy-me-a-coffee",
@@ -9017,11 +8987,6 @@
         "path": "icons/icon-4800-dark-pinterest.png"
       },
       {
-        "id": "icon-4801-dark-elgato",
-        "name": "Dark Elgato",
-        "path": "icons/icon-4801-dark-elgato.png"
-      },
-      {
         "id": "icon-4802-dark-razer",
         "name": "Dark Razer",
         "path": "icons/icon-4802-dark-razer.png"
@@ -9285,11 +9250,6 @@
         "id": "icon-4854-dark-cooler-master",
         "name": "Dark Cooler Master",
         "path": "icons/icon-4854-dark-cooler-master.png"
-      },
-      {
-        "id": "icon-4855-dark-patreon",
-        "name": "Dark Patreon",
-        "path": "icons/icon-4855-dark-patreon.png"
       },
       {
         "id": "icon-4856-dark-buy-me-a-coffee",
